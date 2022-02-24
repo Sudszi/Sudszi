@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sudszi
 - 👀 I’m interested in scripting for FiveM
 - 🌱 I’m currently learning Java, HTML, and LUA
-- 💞️ I’m looking to collaborate on FiveM Serves and creating my own server
+- 💞️ I’m looking to collaborate on FiveM Servers and creating my own server
 - 📫 How to reach me estansfield18@gmail.com
 
 <!---
