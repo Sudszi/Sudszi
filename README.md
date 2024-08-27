@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Eoin
 - 👀 I’m interested in modifying video games
-- 🌱 I’m currently learning C# and LUA
+- 🌱 I’m currently learning
 - 📫 How to reach me Sudszi18@gmail.com
 
 <!---
