@@ -1,6 +1,7 @@
 - 👋 Hi, my name is Eoin
 - 👀 I’m interested in modifying video games
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning C/C++ and Python
+- 📚 I have experience in C# and Java
 - 📫 How to reach me Sudszi18@gmail.com
 
 <!---
