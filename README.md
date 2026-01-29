@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Eoin
 - 👀 I’m interested in modifying video games
-- 🌱 I’m currently learning C/C++ and Python
-- 📚 I have experience in C# and Java
+- 🌱 I’m currently learning cyber security protocols
+- 📚 I have experience in C#, Java, Python, and C++
 - 📫 How to reach me Sudszi18@gmail.com
 
 <!---
